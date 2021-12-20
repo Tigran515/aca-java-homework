@@ -1,22 +1,16 @@
-package com.aca;
-//@IMPORTS:
-import java.util.Scanner;
-
-//@HOMEWORK:
-public class Main {
-//@TASK#1
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Please, input your age");
-        int voterAge = scanner.nextInt();
-
-        if (voterAge >= 18) {
-            System.out.println("You are eligible to vote");
-        } else {
-            System.out.println("Access denied. You are under 18");
-        }
-    }
-}
+//package com.aca;
+////@IMPORTS:
+//import java.util.Scanner;
+//
+//public class Main {
+//
+//    public static void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("TEST");
+//        int voterAge = scanner.nextInt();
+//
+//    }
+//}
 
 //public class Main {
 //
