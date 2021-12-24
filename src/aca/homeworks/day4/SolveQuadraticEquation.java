@@ -1,4 +1,4 @@
-package com.aca;
+package aca.homeworks.day4;
 
 import java.util.Scanner;
 import java.lang.Math;

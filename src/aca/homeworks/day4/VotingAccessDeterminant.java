@@ -1,4 +1,4 @@
-package com.aca;
+package aca.homeworks.day4;
 //IMPORTS:
 import java.util.Scanner;
 
