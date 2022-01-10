@@ -18,6 +18,7 @@ public class PowersOfTwo {     //TASK #5
         }
         power += 2;
 
+
     }
 
 }

@@ -2,7 +2,7 @@ package aca.homeworks.day4;
 
 import java.util.Scanner;
 
-public class CheckNumberValue {     //@TASK#2
+public class CheckNumberType {     //@TASK#2
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
